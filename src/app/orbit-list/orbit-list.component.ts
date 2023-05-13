@@ -13,6 +13,7 @@ export class OrbitListComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
   }
 
 	sort(column: string): void {
